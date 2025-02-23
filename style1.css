@@ -1,0 +1,82 @@
+/* General Styling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Softer Background */
+body {
+    background: linear-gradient(to right, #f5e6cc, #c7451e); /* Soft beige to muted saffron */
+    color: #dc5e28; /* Warm earthy brown */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+}
+
+/* Donation Form Container */
+.donation-container {
+    background: rgba(255, 255, 255, 0.8); /* Soft white with transparency */
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.15);
+    text-align: center;
+    width: 100%;
+    max-width: 400px;
+}
+
+/* Heading */
+.donation-container h1 {
+    font-size: 26px;
+    margin-bottom: 10px;
+    color: #f29100; /* Muted saffron */
+}
+
+/* Form Styling */
+form {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+label {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #f29100; /* Soft brownish saffron */
+}
+
+input, select, textarea {
+    margin-top: 5px;
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #f29100; /* Soft border */
+    border-radius: 5px;
+    outline: none;
+    background: rgba(255, 255, 255, 0.9); /* Lightened input background */
+    color: #c72e00;
+}
+
+/* Textarea */
+textarea {
+    resize: none;
+}
+
+/* Submit Button */
+button {
+    margin-top: 20px;
+    padding: 12px;
+    background: #d4772a; /* Muted saffron/gold */
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: #b36b00; /* Slightly darker saffron */
+}
