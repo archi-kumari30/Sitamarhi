@@ -8,7 +8,7 @@
 
 
 body {
-    background: linear-gradient(to right, #f5e6cc, #c7451e); /* Soft beige to muted saffron */
+    background: linear-gradient(to right, #f5e6cc, #c7451e); 
     color: #dc5e28; 
     display: flex;
     justify-content: center;
