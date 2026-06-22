@@ -1,4 +1,4 @@
-/* General Styling */
+
 * {
     margin: 0;
     padding: 0;
@@ -6,14 +6,13 @@
     font-family: 'Arial', sans-serif;
 }
 
-/* Background */
 body {
-    background-color: #ffecd1; /* Light Orange */
-    color: #5a2d0c; /* Dark Brown for readability */
+    background-color: #ffecd1; 
+    color: #5a2d0c;
     text-align: center;
 }
 
-/* Navigation Bar */
+
 header {
     width: 100%;
     background: rgba(0, 0, 0, 0.7);
@@ -48,25 +47,25 @@ nav ul li a:hover {
     border-radius: 5px;
 }
 
-/* Page Container */
+
 .container {
     max-width: 900px;
     margin: 80px auto 20px;
     padding: 20px;
 }
 
-/* Headings */
+
 h1 {
-    color: #d35400; /* Deep Orange */
+    color: #d35400; 
     margin-bottom: 20px;
 }
 
 h2 {
-    color: #c0392b; /* Red shade */
+    color: #c0392b; 
     margin-bottom: 15px;
 }
 
-/* Sections */
+
 .section {
     margin-top: 30px;
     padding: 20px;
@@ -75,7 +74,7 @@ h2 {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
-/* Grid Layout for Images and Text */
+
 .grid-container {
     display: flex;
     justify-content: space-around;
@@ -99,7 +98,7 @@ h2 {
     border-radius: 8px;
 }
 
-/* Responsive Design */
+
 @media (max-width: 768px) {
     .grid-container {
         flex-direction: column;
