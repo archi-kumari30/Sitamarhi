@@ -1,4 +1,4 @@
-/* General Styling */
+
 * {
     margin: 0;
     padding: 0;
@@ -6,10 +6,10 @@
     font-family: 'Arial', sans-serif;
 }
 
-/* Softer Background */
+
 body {
     background: linear-gradient(to right, #f5e6cc, #c7451e); /* Soft beige to muted saffron */
-    color: #dc5e28; /* Warm earthy brown */
+    color: #dc5e28; 
     display: flex;
     justify-content: center;
     align-items: center;
@@ -17,9 +17,9 @@ body {
     padding: 20px;
 }
 
-/* Donation Form Container */
+
 .donation-container {
-    background: rgba(255, 255, 255, 0.8); /* Soft white with transparency */
+    background: rgba(255, 255, 255, 0.8);
     padding: 25px;
     border-radius: 10px;
     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.15);
@@ -28,14 +28,14 @@ body {
     max-width: 400px;
 }
 
-/* Heading */
+
 .donation-container h1 {
     font-size: 26px;
     margin-bottom: 10px;
-    color: #f29100; /* Muted saffron */
+    color: #f29100; 
 }
 
-/* Form Styling */
+
 form {
     display: flex;
     flex-direction: column;
@@ -45,30 +45,30 @@ form {
 label {
     margin-top: 10px;
     font-weight: bold;
-    color: #f29100; /* Soft brownish saffron */
+    color: #f29100; 
 }
 
 input, select, textarea {
     margin-top: 5px;
     padding: 10px;
     width: 100%;
-    border: 1px solid #f29100; /* Soft border */
+    border: 1px solid #f29100; 
     border-radius: 5px;
     outline: none;
-    background: rgba(255, 255, 255, 0.9); /* Lightened input background */
+    background: rgba(255, 255, 255, 0.9); 
     color: #c72e00;
 }
 
-/* Textarea */
+
 textarea {
     resize: none;
 }
 
-/* Submit Button */
+
 button {
     margin-top: 20px;
     padding: 12px;
-    background: #d4772a; /* Muted saffron/gold */
+    background: #d4772a; 
     color: white;
     font-size: 18px;
     border: none;
