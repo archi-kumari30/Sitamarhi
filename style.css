@@ -1,4 +1,4 @@
-/* General Styling */
+
 * {
     margin: 0;
     padding: 0;
@@ -6,7 +6,7 @@
     font-family: 'Arial', sans-serif;
 }
 
-/* Background Video */
+
 #bg-video {
     position: fixed;
     top: 0;
@@ -17,7 +17,7 @@
     z-index: -1;
 }
 
-/* Overlay for better text readability */
+
 .overlay {
     position: fixed;
     top: 0;
@@ -28,7 +28,7 @@
     z-index: 0;
 }
 
-/* Navigation Bar */
+
 header {
     position: absolute;
     width: 100%;
@@ -60,7 +60,7 @@ nav ul li a:hover {
     border-radius: 5px;
 }
 
-/* Centered Content */
+
 .content {
     position: absolute;
     top: 50%;
@@ -81,7 +81,7 @@ nav ul li a:hover {
     margin-top: 10px;
 }
 
-/* Button */
+
 .btn {
     display: inline-block;
     margin-top: 20px;
