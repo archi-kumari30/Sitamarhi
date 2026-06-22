@@ -1,4 +1,4 @@
-/* General Styling */
+
 * {
     margin: 0;
     padding: 0;
@@ -6,16 +6,16 @@
     font-family: 'Arial', sans-serif;
 }
 
-/* Background */
+
 body {
-    background-color: #FFE5B4; /* Light Orange */
-    color: #4B1E00; /* Dark Brown */
+    background-color: #FFE5B4; 
+    color: #4B1E00;
 }
 
-/* Navigation Bar */
+
 header {
     width: 100%;
-    background: rgba(255, 140, 0, 0.8); /* Orange */
+    background: rgba(255, 140, 0, 0.8); 
     text-align: center;
     padding: 10px 0;
     position: fixed;
@@ -36,7 +36,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #B22222; /* Dark Red */
+    color: #B22222; 
     font-size: 18px;
     font-weight: bold;
     padding: 10px 15px;
@@ -48,18 +48,18 @@ nav ul li a:hover {
     border-radius: 5px;
 }
 
-/* Page Title */
+
 .page-title {
     text-align: center;
-    padding: 100px 0 20px; /* Extra space for fixed navbar */
+    padding: 100px 0 20px; 
 }
 
 .page-title h1 {
     font-size: 36px;
-    color: #B22222; /* Dark Red */
+    color: #B22222; 
 }
 
-/* Temple List Section */
+
 .temple-list {
     display: flex;
     flex-wrap: wrap;
@@ -68,9 +68,9 @@ nav ul li a:hover {
     padding: 20px;
 }
 
-/* Temple Card */
+
 .temple {
-    background: rgba(255, 165, 0, 0.2); /* Light Orange Card */
+    background: rgba(255, 165, 0, 0.2); 
     border-radius: 10px;
     box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.2);
     overflow: hidden;
@@ -81,7 +81,7 @@ nav ul li a:hover {
 .temple img {
     width: 100%;
     height: auto;
-    border-bottom: 3px solid #B22222; /* Dark Red Border */
+    border-bottom: 3px solid #B22222; 
 }
 
 .temple-info {
@@ -90,7 +90,7 @@ nav ul li a:hover {
 
 .temple-info h2 {
     font-size: 22px;
-    color: #B22222; /* Dark Red */
+    color: #B22222; 
     margin-bottom: 10px;
 }
 
