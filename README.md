@@ -11,3 +11,6 @@ A website providing information about Sitamarhi district.
 - Places and attractions
 - Image gallery
 - Responsive webpages
+## Project Structure
+
+The project contains HTML pages, CSS files, and images.
