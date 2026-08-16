@@ -18,7 +18,9 @@ The project contains HTML pages, CSS files, and images.
 
 This project is hosted using GitHub Pages.
 ## Future Improvements
+## Project Goal
 
+The goal of this project is to provide a simple and informative website about Sitamarhi.
 - Add more information about Sitamarhi.
 - Improve the website design.
 - Add more interactive features.
