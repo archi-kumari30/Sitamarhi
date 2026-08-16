@@ -14,3 +14,6 @@ A website providing information about Sitamarhi district.
 ## Project Structure
 
 The project contains HTML pages, CSS files, and images.
+## Live Website
+
+This project is hosted using GitHub Pages.
