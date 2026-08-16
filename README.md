@@ -22,3 +22,6 @@ This project is hosted using GitHub Pages.
 - Add more information about Sitamarhi.
 - Improve the website design.
 - Add more interactive features.
+## Author
+
+Archi Kumari
