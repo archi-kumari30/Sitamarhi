@@ -5,3 +5,9 @@ A website providing information about Sitamarhi district.
 - HTML
 - CSS
 - JavaScript
+## Features
+
+- Information about Sitamarhi
+- Places and attractions
+- Image gallery
+- Responsive webpages
