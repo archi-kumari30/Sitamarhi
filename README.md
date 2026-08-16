@@ -17,3 +17,8 @@ The project contains HTML pages, CSS files, and images.
 ## Live Website
 
 This project is hosted using GitHub Pages.
+## Future Improvements
+
+- Add more information about Sitamarhi.
+- Improve the website design.
+- Add more interactive features.
